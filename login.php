@@ -13,6 +13,10 @@ include("conexion.php");
     <title>Iniciar Sesion</title>
 </head>
 <body>
+    <header class="ca"> 
+        <a href='/'><img src="images/images.png"></a>
+        <h1>TESERIX</h1>
+    </header>
     <div class="formulario">
         <form action="login.php" method="POST" >
             <h1>Iniciar Sesion</h1>

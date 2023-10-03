@@ -20,8 +20,8 @@
 
         <nav>
             <ul class="menu">
-                <li><a href='index.html'>Ventas</a></li>
-                <li><a href='turno.html'>Turnos</a></li>
+                <li><a href='index.php'>Ventas</a></li>
+                <li><a href='turno.php'>Turnos</a></li>
                 <li class="usuario"><?php
                 session_start();
                 if(isset($_SESSION['username'])) {

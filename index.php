@@ -17,14 +17,14 @@ include('conexion.php');
 </head>
     <body>
         <header class="ca">
-            <a href='index.html'><img src="assets/images/images.png"></a>
+            <a href='index.php'><img src="assets/images/images.png"></a>
             <h1>TESERIX</h1>
         </header>
         <nav>
             <ul class="menu">
                 <div class="links-to">
-                    <li><a href='index.html'>Ventas</a></li>
-                    <li><a href='turno.html'>Turnos</a></li>
+                    <li><a href='index.php'>Ventas</a></li>
+                    <li><a href='turno.php'>Turnos</a></li>
                 </div>
                 <div class="session-info">
                     <li class="usuario"><?php

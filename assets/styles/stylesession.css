@@ -22,13 +22,13 @@ a{
     align-items: center;
     justify-content: center;
 }
-.header-logo{
+.ca{
     display: flex;
     align-items: center;
-    background-color: #EFEFEF;
-    color: black;
+    background-color: black;
+    color: #EFEFEF;
 }
-.header-logo img{
+.ca img{
     width: 70px;
     height: 70px;
     margin: 15px;
