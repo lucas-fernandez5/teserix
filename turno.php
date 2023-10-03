@@ -14,7 +14,7 @@
 <body>
 
         <header class="ca">
-            <a href='/'><img src="images/images.png"></a>
+            <a href='index.php'><img src="assets/images/images.png"></a>
             <h1>TESERIX</h1>
         </header>
 

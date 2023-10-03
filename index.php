@@ -50,10 +50,10 @@ include('conexion.php');
                     <img src="images/net1.png" class="d-block w-100">
                 </div>
                 <div class="carousel-item">
-                    <img src="images/net2.png" class="d-block w-100">
+                    <img src="assets/images/net2.png" class="d-block w-100">
                 </div>
                 <div class="carousel-item">
-                    <img src="images/net3.png" class="d-block w-100">
+                    <img src="assets/images/net3.png" class="d-block w-100">
                 </div>
                 </div>
             </div>
@@ -68,27 +68,27 @@ include('conexion.php');
                         <h3>Disco Duro Seagate</h3>
                         <p>Disco Rido de 1tb, con velocidades de escritura de hasta 500mb/s.</p>
                         <b>$9.300</b> <br>
-                        <a href="!#"><img src="images/carrito.png" class="ima2"></a>                
+                        <a href="!#"><img src="assets/images/carrito.png" class="ima2"></a>                
                     </div>
                 </div>
                 
                 <div class="prod">
-                    <img src="images/pro.png" class="ima">
+                    <img src="assets/images/pro.png" class="ima">
                     <div>
                         <h3>AMD Ryzen 3 3200g</h3>
                         <p>Microprocesador AMD Ryzen con graficos integrados Radeon Vega 8.</p>
                         <b>$27.000</b> <br>
-                        <a href="!#"><img src="images/carrito.png" class="ima2"></a>
+                        <a href="!#"><img src="assets/images/carrito.png" class="ima2"></a>
                     </div> 
                 </div>
 
                 <div class="prod">
-                    <img src="images/ram.png" class="ima">
+                    <img src="assets/images/ram.png" class="ima">
                     <div>
                         <h3>Memoria RAM 8gb</h3>
                         <p>Memoria RAM marca Hyperx con una tasa de 2666mhz con tecnología DDR4.</p>
                         <b>$6.000</b> <br>
-                        <a href="!#"><img src="images/carrito.png" class="ima2"></a>
+                        <a href="!#"><img src="assets/images/carrito.png" class="ima2"></a>
                     </div>
                 </div>
             </div>
@@ -96,7 +96,7 @@ include('conexion.php');
         <div class="arreglos">
             <h3>Arreglos</h3>
             <div class="info">
-                <img src="images/rep.png">
+                <img src="assets/images/rep.png">
                 <div class="txt">
                     <h2>PROFESIONALES EN SOPORTE DE COMPUTADORAS</h2>
                     <p>Un servicio de excelencia. Brindamos reparación de PC de forma inmediata para las eventualidades que puedan llegar a surgir en tu computadora. En caso de que así lo requieras contamos con la posibilidad de brindarte servicio de técnico a domicilio en Capital Federal y GBA (Consulte zonas de alcance), además de atención en nuestro taller y soporte remoto.</p>
