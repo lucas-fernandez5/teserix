@@ -47,7 +47,7 @@ include('conexion.php');
             <div class="adan" data-bs-ride="carousel">
                 <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="images/net1.png" class="d-block w-100">
+                    <img src="assets/images/net1.png" class="d-block w-100">
                 </div>
                 <div class="carousel-item">
                     <img src="assets/images/net2.png" class="d-block w-100">
@@ -63,7 +63,7 @@ include('conexion.php');
             </div>
             <div class="fot">
                 <div class="prod">
-                    <img src="images/hdd.png" class="ima">
+                    <img src="assets/images/hdd.png" class="ima">
                     <div>
                         <h3>Disco Duro Seagate</h3>
                         <p>Disco Rido de 1tb, con velocidades de escritura de hasta 500mb/s.</p>
@@ -107,10 +107,10 @@ include('conexion.php');
             <h3>Contáctanos</h3>
             <h4>teserix.contact@gmail.com</h4>
             <div class="redess">
-                <a href="https://es-la.facebook.com/"><img  class="social" src="images/face.png"></a>
-                <a href="https://web.whatsapp.com/"><img class="social" src="images/warap.png"></a>
-                <a href="https://www.instagram.com/?hl=es-la"><img class="social" src="images/insta.jpg"></a>
-                <a href="https://twitter.com/"><img src="images/tt.png"></a>
+                <a href="https://es-la.facebook.com/"><img  class="social" src="assets/images/face.png"></a>
+                <a href="https://web.whatsapp.com/"><img class="social" src="assets/images/warap.png"></a>
+                <a href="https://www.instagram.com/?hl=es-la"><img class="social" src="assets/images/insta.jpg"></a>
+                <a href="https://twitter.com/"><img src="assets/images/tt.png"></a>
             </div>
         </div>
         <footer>
