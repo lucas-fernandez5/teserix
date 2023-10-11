@@ -4,20 +4,24 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
+
 body{
     background-color: #1F1F1F;
 }
+
 .ca{
     display: flex;
     align-items: center;
     background-color: black;
     color: #EFEFEF;
 }
+
 .ca img{
     width: 70px;
     height: 70px;
     margin: 15px;
 }
+
 .menu{
     display: flex;
     justify-content: flex-start;
@@ -27,6 +31,7 @@ body{
     padding-left: 10px;
     align-items: center;
 }
+
 .menu a{
     margin-right: 10px;
     text-decoration: none;
@@ -34,11 +39,13 @@ body{
     border-bottom: 0px solid #EFEFEF;
     padding: 8px;
 }
+
 .menu a:hover{
     font-style: none;
     color: #EFEFEF;
     border-bottom: 2px solid #EFEFEF;
 }
+
 footer{
     padding-top: 50px;
     padding-bottom: 50px;
@@ -50,14 +57,17 @@ footer{
     border-top: 2px solid #252525;
     border-bottom: 2px solid #252525;
 }
+
 footer a{
     text-decoration: none;
     color: white;
     display: flow-root;
 }
+
 footer h4{
     margin: 20px;
 }
+
 h3{
     background-color: black;
     color: white;
@@ -67,12 +77,14 @@ h3{
     font-size: 2em;
     text-align: center;
 }
+
 .cuerpo{
     margin: auto;
     width: 50%;
     height: 90%;
     margin-top: 16px;
 }
+
 .data{
     width: 100%;
     background: black;
@@ -84,9 +96,11 @@ h3{
     font-size: 18px;
     color: white;
 }
+
 textarea{
     width: 90%;
 }
+
 .boton{
     width: 25%;
     border-radius: 4px;
@@ -97,12 +111,15 @@ textarea{
     margin: 16px 0;
     font-size: 16px;
 }
+
 .boton:hover{
     cursor: pointer;
 }
+
 input{
     width: 35%;
 }
+
 #reference{
     opacity: 0;
 }
